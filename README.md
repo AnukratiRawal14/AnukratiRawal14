@@ -2,8 +2,9 @@
 
 - 🔭 I’m pursuing B-Tech 3rd yr in Information Technology.
 - 👯 Looking forward to contribute more to Open Source projects.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anukratirawal)
-<!-- - 🌱 I’m currently working on a project.-->
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anukratirawal)<br>
+- 💭 All about me : [Click here](https://anukratirawal14.github.io/Portfolio/)</i> 
+<!-- -  I’m currently working on a project.-->
 
 ### Languages and Tools:
 
