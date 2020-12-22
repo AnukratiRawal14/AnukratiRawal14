@@ -19,4 +19,8 @@
 <br/>
 <br/>
  
-
+<a href="https://github.com/AnukratiRawal14/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnukratiRawal14&layout=compact&theme=material-palenight" width="400" />
+</a>
+<br/>
+<br/>
