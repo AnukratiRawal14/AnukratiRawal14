@@ -1,7 +1,7 @@
 ### Hi there, I'm Anukrati Rawal👋
 
 - 🔭 I’m pursuing B-Tech in Information Technology.
-- 👯 Looking forward to contribute more to Open Source projects.
+- 👯 Looking forward to contribute more to Open Source Projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anukratirawal)<br>
 - 💭 All about me : [Click here](https://anukratirawal14.github.io/Portfolio/)</i> 
 <!-- -  I’m currently working on a project.-->
