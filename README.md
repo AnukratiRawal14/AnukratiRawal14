@@ -3,7 +3,7 @@
 
 🛠️ Tech Stack: AWS, Terraform, Kubernetes, Docker, Python
 
-🚀 Proud holder of the "Certified Solution Architect" designation.🏗️ Additionally, holding the "Terraform Associate Certified" from HashiCorp, demonstrating proficiency in infrastructure as code.
+🚀 Proud holder of the "Certified Solution Architect Associate" designation.🏗️ Additionally, holding the "Terraform Associate Certified" from HashiCorp, demonstrating proficiency in infrastructure as code.
 
 🌱 I'm constantly learning and exploring new horizons in the cloud space. Let's connect and collaborate to craft the future of cloud computing together!
 
