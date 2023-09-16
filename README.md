@@ -1,11 +1,9 @@
 
-👋 Hello! I'm Anukrati Rawal, an enthusiastic Cloud Engineer ☁️  with a focus on architecting scalable and secure cloud solutions. My journey in the cloud realm is fueled by a drive to innovate, automate, and optimize infrastructure. 
-
-🚀 In my orbit, I'm on a mission to harness the power of cloud technologies, ensuring seamless deployments, robust architectures, and enhanced performance. From building resilient systems to implementing CI/CD pipelines, I thrive in the realm of cloud engineering.
+👋 Hello! I'm Anukrati Rawal, an enthusiastic Cloud Engineer ☁️ My journey in the cloud realm is fueled by a drive to innovate, automate, and optimize infrastructure.
 
 🛠️ Tech Stack: AWS, Terraform, Kubernetes, Docker, Python
 
-💡 Proud holder of the "Certified Solution Architect" designation.🏗️ Additionally, holding the "Terraform Associate Certified" from HashiCorp, demonstrating proficiency in infrastructure as code.
+🚀 Proud holder of the "Certified Solution Architect" designation.🏗️ Additionally, holding the "Terraform Associate Certified" from HashiCorp, demonstrating proficiency in infrastructure as code.
 
 🌱 I'm constantly learning and exploring new horizons in the cloud space. Let's connect and collaborate to craft the future of cloud computing together!
 
