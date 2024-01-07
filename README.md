@@ -12,11 +12,12 @@
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anukratirawal)<br>
 
+
+<!--- 🔭 I’m passionate Cloud Engineer.
 📜   My Blogs: [Medium](https://medium.com/@rawalanukrati20)<br>
 
 💭 All about me : [Click here](https://anukratirawal14.github.io/Portfolio/)</i>
 
-<!--- 🔭 I’m passionate Cloud Engineer.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anukratirawal)<br>
 - 📜   My Blogs: [Medium](https://medium.com/@rawalanukrati20)<br>
 <!-- - 💭 All about me : [Click here](https://anukratirawal14.github.io/Portfolio/)</i> --> 
